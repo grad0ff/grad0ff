@@ -1,9 +1,7 @@
 
-[![grad0ff](assets/logo3.png)](https://t.me/grad0ff)
-
 ### About Me
 
-*I'm Junior QA Automation Engineer*
+Junior QA Automation Engineer
 
 ###   Languages and Tools :hammer_and_wrench:
 
