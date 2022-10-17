@@ -1,12 +1,11 @@
 
 ## Hi there! I'm Artur 👋
 
-___
 ### About Me :man:
 
 Junior QA Automation Engineer
-
 ___
+
 ###   Languages and Tools :hammer_and_wrench:
 
 
@@ -24,6 +23,8 @@ ___
 <a href="https://docker.com"><img alt="Docker" height="50" src="assets/technologies/docker.svg" width="50"/></a>
 <a href="https://ubuntu.com"><img alt="Ubuntu" height="50" src="assets/technologies/ubuntu.png" width="50"/></a>
 </div>
+
+___
 
 [//]: # (### Contact)
 [//]: # (![grad0ff]&#40;https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/grad0ff&#41;)
