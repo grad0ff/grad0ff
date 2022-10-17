@@ -1,12 +1,18 @@
 
-### About Me
+## Hi there! I'm Artur 👋
+
+___
+### About Me :man:
 
 Junior QA Automation Engineer
 
+___
 ###   Languages and Tools :hammer_and_wrench:
+
 
 <div align="center">
 <a href="https://www.java.com/"><img alt="Java" height="50" src="assets/technologies/java.svg" width="50"/></a>
+<a href="https://www.python.org/"><img alt="Python" height="50" src="assets/technologies/python.svg" width="45"/></a>
 <a href="https://junit.org/junit5/"><img alt="JUnit 5" height="50" src="assets/technologies/junit5.svg" width="50"/></a>
 <a href="https://selenide.org/"><img alt="Selenide" height="50" src="assets/technologies/selenide.svg" width="50"/></a>
 <a href="https://rest-assured.io/"><img alt="Rest Assured" height="50" src="assets/technologies/rest_assured.png" width="50"/></a>
@@ -15,8 +21,9 @@ Junior QA Automation Engineer
 <a href="https://www.jenkins.io/"><img alt="Jenkins" height="50" src="assets/technologies/jenkins.svg" width="50"/></a>
 <a href="https://qameta.io/"><img alt="Allure TestOps" height="50" src="assets/technologies/allure_testops.svg" width="50"/></a>
 <a href="https://github.com/allure-framework/"><img alt="Allure" height="50" src="assets/technologies/allure.svg" width="50"/></a>
+<a href="https://docker.com"><img alt="Docker" height="50" src="assets/technologies/docker.svg" width="50"/></a>
+<a href="https://ubuntu.com"><img alt="Ubuntu" height="50" src="assets/technologies/ubuntu.png" width="50"/></a>
 </div>
 
-### Contact
-
-![grad0ff](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/grad0ff)
+[//]: # (### Contact)
+[//]: # (![grad0ff]&#40;https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/grad0ff&#41;)
