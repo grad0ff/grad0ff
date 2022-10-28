@@ -13,7 +13,8 @@ ___
 <a href="https://www.java.com/"><img alt="Java" height="50" src="assets/technologies/java.svg" width="50"/></a>
 <a href="https://www.python.org/"><img alt="Python" height="50" src="assets/technologies/python.svg" width="45"/></a>
 <a href="https://junit.org/junit5/"><img alt="JUnit 5" height="50" src="assets/technologies/junit5.svg" width="50"/></a>
-<a href="https://testng.org/doc/"><img alt="TestNG" height="50" src="assets/technologies/testng.png" width="80"/></a>
+
+[//]: # (<a href="https://testng.org/doc/"><img alt="TestNG" height="50" src="assets/technologies/testng.png" width="80"/></a>)
 <a href="https://selenide.org/"><img alt="Selenide" height="50" src="assets/technologies/selenide.svg" width="50"/></a>
 <a href="https://rest-assured.io/"><img alt="Rest Assured" height="50" src="assets/technologies/rest_assured.png" width="50"/></a>
 <a href="https://aerokube.com/selenoid/"><img alt="Selenoid" height="50" src="assets/technologies/selenoid.svg" width="50"/></a>
