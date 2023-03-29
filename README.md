@@ -1,5 +1,4 @@
-
-[//]: # (## Hi there! I'm Artur 👋)
+## Hi there! I'm Artur 👋
 
 ### About Me :man:
 
@@ -7,7 +6,6 @@ Junior QA Automation Engineer
 ___
 
 ###   Languages and Tools :hammer_and_wrench:
-
 
 <div align="center">
 <a href="https://www.java.com/"><img alt="Java" height="50" src="assets/technologies/java.svg" width="50"/></a>
@@ -30,4 +28,4 @@ ___
 
 ### Contact
 
-![grad0ff](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&link=https://t.me/grad0ff)
+[![telegram](https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram)](https://t.me/grad0ff)
