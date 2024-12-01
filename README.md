@@ -2,7 +2,7 @@
 
 ### About Me :man:
 
-Junior QA Automation Engineer
+QA Automation Engineer 
 ___
 
 ###   Languages and Tools :hammer_and_wrench:
