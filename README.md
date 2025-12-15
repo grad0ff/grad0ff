@@ -1,4 +1,4 @@
-## Hi there! I'm grad0ff 👋
+## Hi there! I'm Arthur 👋
 
 ### About Me :man:
 
