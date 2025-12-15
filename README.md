@@ -20,7 +20,6 @@ ___
 <a href="https://qameta.io/"><img alt="Allure TestOps" height="50" src="assets/technologies/allure_testops.svg" width="50"/></a>
 <a href="https://github.com/allure-framework/"><img alt="Allure" height="50" src="assets/technologies/allure.svg" width="50"/></a>
 <a href="https://docker.com"><img alt="Docker" height="50" src="assets/technologies/docker.svg" width="50"/></a>
-<a href="https://ubuntu.com"><img alt="Ubuntu" height="50" src="assets/technologies/ubuntu.png" width="50"/></a>
 </div>
 
 ___
